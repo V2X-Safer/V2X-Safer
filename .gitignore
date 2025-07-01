@@ -1,0 +1,14 @@
+CAVISE_OpenCDA/
+OpenCOOD/
+SoVAR/
+build/
+pypcd/
+yolov5/
+.vscode/
+.idea/
+*.tar.gz
+carla_0_9_12/CarlaUE4/
+V2Xverse/checkpoints.bak/
+V2Xverse/dataset/
+*.pcd
+.history/

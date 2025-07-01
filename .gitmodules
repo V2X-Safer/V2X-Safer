@@ -1,0 +1,6 @@
+[submodule "modules/OpenCDA-Safer"]
+	path = modules/OpenCDA-Safer
+	url = https://github.com/V2X-Safer/OpenCDA-Safer
+[submodule "modules/V2Xverse-Safer"]
+	path = modules/V2Xverse-Safer
+	url = https://github.com/V2X-Safer/V2Xverse-Safer
